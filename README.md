@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Patient Portal - Multilingual Offline-First PWA
 
 A comprehensive multilingual, offline-first Patient Portal frontend built with React, TypeScript, and modern web technologies. Designed to serve rural patients, daily-wage workers, farmers, and community health workers with a simple, intuitive interface that works even without internet connectivity.
@@ -212,3 +213,6 @@ For support and questions, please contact the development team or create an issu
 ---
 
 **Note**: This is a demo application with mock data and APIs. For production use, integrate with real backend services and implement proper security measures.
+=======
+# SIH
+>>>>>>> 90118b7b2943b5f2ab224eb18bc0af4127dc433b
